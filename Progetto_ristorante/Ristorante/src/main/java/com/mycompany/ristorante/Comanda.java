@@ -25,12 +25,9 @@ public class Comanda {
         this.prezzi = new ArrayList<>();
     }
 
-    public void aggiungiPiatto(String piatto, double prezzo, int quantita) {
-        
-        for (int i = 0; i < quantita; i++){
-            piatti.add(piatto);
-            prezzi.add(prezzo);
-        }
+    public void aggiungiPiatto(String piatto, double prezzo) {
+        piatti.add(piatto);
+        prezzi.add(prezzo);
     }
     
     public double calcolaPrezzoTotale() {
@@ -72,6 +69,5 @@ public class Comanda {
             System.out.println("Errore durante la scrittura del file.");
         }
     }
-    
 }
 
