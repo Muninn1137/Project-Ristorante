@@ -16,3 +16,21 @@ Panino al salame - $6.0
 Panino con pollo - $8.5
 Totale: $14.5
 
+Scontrino per il tavolo 1:
+Totale: $0.0
+
+Scontrino per il tavolo 20:
+Bruschetta - $7.5
+Bruschetta - $7.5
+Totale: $15.0
+
+Scontrino per il tavolo 4:
+Aranciata - $2.0
+Aranciata - $2.0
+Aranciata - $2.0
+Aranciata - $2.0
+Panino vegetariano - $7.0
+Panino vegetariano - $7.0
+Panino vegetariano - $7.0
+Totale: $29.0
+
