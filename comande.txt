@@ -1,11 +1,14 @@
-Tavolo: 1, Comanda: Caprese - $8.0
-
-Tavolo: 1, Comanda: Caprese - $8.0
-Tavolo: 1, Comanda: Panino al salame - $6.0
-
-Tavolo: 1, Comanda: Caprese - $8.0
-Tavolo: 1, Comanda: Insalata di mare - $9.5
+Tavolo: 1, Comanda: Bruschetta - $7.5
+Tavolo: 1, Comanda: Panino vegetariano - $7.0
+Tavolo: 1, Comanda: Acqua minerale - $1.5
 
 Tavolo: 2, Comanda: Panino al salame - $6.0
 Tavolo: 2, Comanda: Coca Cola - $2.0
+
+Tavolo: 10, Comanda: Caprese - $8.0
+Tavolo: 10, Comanda: Panino vegetariano - $7.0
+Tavolo: 10, Comanda: Aranciata - $2.0
+
+Tavolo: 11, Comanda: Panino al salame - $6.0
+Tavolo: 11, Comanda: Panino con pollo - $8.5
 

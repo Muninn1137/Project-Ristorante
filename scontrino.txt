@@ -1,5 +1,18 @@
+
 Scontrino per il tavolo 1:
+Bruschetta - $7.5
+Panino vegetariano - $7.0
+Acqua minerale - $1.5
+Totale: $16.0
+
+Scontrino per il tavolo 10:
 Caprese - $8.0
-Insalata di mare - $9.5
-Totale: $17.5
+Panino vegetariano - $7.0
+Aranciata - $2.0
+Totale: $17.0
+
+Scontrino per il tavolo 11:
+Panino al salame - $6.0
+Panino con pollo - $8.5
+Totale: $14.5
 

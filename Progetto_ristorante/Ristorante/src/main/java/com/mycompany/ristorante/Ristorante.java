@@ -29,7 +29,6 @@ public class Ristorante {
 
             comanda.stampaComanda();
             comanda.salvaComandaSuFile();
-            cassa.scriviScontrinoSuFile(); 
             
             double prezzoTotale = comanda.calcolaPrezzoTotale(); // Chiamata corretta al metodo calcolaPrezzoTotale()
             cassa.registraPagamento(comanda, prezzoTotale);
