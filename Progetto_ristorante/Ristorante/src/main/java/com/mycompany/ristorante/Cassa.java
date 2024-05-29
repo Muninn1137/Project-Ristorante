@@ -35,7 +35,7 @@ public class Cassa {
             double prezzoTotale = prezziTotali.get(i);
             System.out.println("Comanda per il tavolo " + comanda.getNumeroTavolo() + ":");
             comanda.stampaComanda();
-            System.out.println("Totale: €" + prezzoTotale);
+            System.out.println("Totale: $" + prezzoTotale);
             System.out.println("----------------------------------");
         }
     }
