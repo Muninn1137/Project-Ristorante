@@ -25,10 +25,13 @@ public class Comanda {
         this.prezzi = new ArrayList<>();
     }
 
-    public void aggiungiPiatto(String piatto, double prezzo) {
-        piatti.add(piatto);
-        prezzi.add(prezzo);
+    public void aggiungiPiatto(String piatto, double prezzo, int quantita) {
+        for (int i = 0; i < quantita; i++) {
+            piatti.add(piatto);
+            prezzi.add(prezzo);
+        }
     }
+    
     
     public double calcolaPrezzoTotale() {
         double prezzoTotale = 0.0;
@@ -56,6 +59,7 @@ public class Comanda {
             System.out.println(piatti.get(i) + " - $" + prezzi.get(i));
         }
     }
+    
 
     public void salvaComandaSuFile() {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("comande.txt", true))) {
@@ -69,5 +73,6 @@ public class Comanda {
             System.out.println("Errore durante la scrittura del file.");
         }
     }
+    
 }
 

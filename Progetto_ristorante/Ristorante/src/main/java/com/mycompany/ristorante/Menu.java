@@ -1,23 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.ristorante;
-
-/**
- *
- * @author muninn/momo/danylo
- */
 
 public class Menu {
     private final String[] antipasti = {"Bruschetta", "Caprese", "Insalata di mare"};
-    private final double[] prezziAntipasti = {7.50, 8.00, 9.50};
+    private final double[] prezziAntipasti = {1.50, 3.00, 5.50};
 
     private final String[] panini = {"Panino al salame", "Panino vegetariano", "Panino con pollo"};
-    private final double[] prezziPanini = {6.00, 7.00, 8.50};
+    private final double[] prezziPanini = {5.00, 6.00, 6.50};
 
     private final String[] bevande = {"Acqua minerale", "Coca Cola", "Aranciata"};
-    private final double[] prezziBevande = {1.50, 2.00, 2.00};
+    private final double[] prezziBevande = {1.10, 1.50, 1.50};
 
     public void visualizzaMenu() {
         System.out.println("MENU:");

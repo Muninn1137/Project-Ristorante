@@ -54,7 +54,7 @@ public class Ristorante {
             }
             System.out.print("Seleziona il piatto: ");
             int indicePiatto = scanner.nextInt() - 1;
-
+    
             double prezzo = 0.0;
             String piatto = "";
             switch (categoria) {
@@ -73,12 +73,15 @@ public class Ristorante {
                 default:
                     break;
             }
-
+    
             if (prezzo != 0.0) {
-                comanda.aggiungiPiatto(piatto, prezzo);
+                System.out.print("Inserisci la quantità: ");
+                int quantita = scanner.nextInt();
+                comanda.aggiungiPiatto(piatto, prezzo, quantita);
             } else {
                 System.out.println("Categoria o piatto non valido.");
             }
         }
     }
+    
 }

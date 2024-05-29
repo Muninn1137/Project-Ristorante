@@ -12,3 +12,6 @@ Tavolo: 10, Comanda: Aranciata - $2.0
 Tavolo: 11, Comanda: Panino al salame - $6.0
 Tavolo: 11, Comanda: Panino con pollo - $8.5
 
+Tavolo: 30, Comanda: Caprese - $3.0
+Tavolo: 30, Comanda: Caprese - $3.0
+
