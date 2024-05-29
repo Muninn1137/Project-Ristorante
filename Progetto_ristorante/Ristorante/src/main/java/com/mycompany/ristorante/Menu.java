@@ -1,5 +1,11 @@
 package com.mycompany.ristorante;
 
+/**
+ *
+ * @author muninn
+ */
+
+
 public class Menu {
     private final String[] antipasti = {"Bruschetta", "Caprese", "Insalata di mare"};
     private final double[] prezziAntipasti = {1.50, 3.00, 5.50};

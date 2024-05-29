@@ -60,7 +60,6 @@ public class Cassa {
             writer.write("Totale: $" + prezzoTotale);
             writer.newLine();
             writer.newLine();
-            System.out.println("Lo scontrino è stato scritto correttamente sul file.");
         } catch (IOException e) {
             System.out.println("Errore durante la scrittura dello scontrino sul file.");
         }

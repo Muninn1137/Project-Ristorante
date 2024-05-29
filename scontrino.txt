@@ -21,3 +21,18 @@ Caprese - $3.0
 Caprese - $3.0
 Totale: $6.0
 
+Scontrino per il tavolo 1:
+Bruschetta - $1.5
+Bruschetta - $1.5
+Panino al salame - $5.0
+Panino al salame - $5.0
+Aranciata - $1.5
+Aranciata - $1.5
+Totale: $16.0
+
+Scontrino per il tavolo 2:
+Caprese - $3.0
+Caprese - $3.0
+Caprese - $3.0
+Totale: $9.0
+

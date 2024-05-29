@@ -6,7 +6,7 @@ package com.mycompany.ristorante;
 
 /**
  *
- * @author muninn/momo/danylo
+ * @author muninn
  */
 
 import java.util.Scanner;

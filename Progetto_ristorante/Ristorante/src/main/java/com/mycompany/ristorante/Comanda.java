@@ -6,7 +6,7 @@ package com.mycompany.ristorante;
 
 /**
  *
- * @author muninn/momo/danylo
+ * @author muninn
  */
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -68,7 +68,6 @@ public class Comanda {
                 writer.newLine();
             }
             writer.newLine();
-            System.out.println("Comanda per il tavolo " + numeroTavolo + " registrata con successo.");
         } catch (IOException e) {
             System.out.println("Errore durante la scrittura del file.");
         }
